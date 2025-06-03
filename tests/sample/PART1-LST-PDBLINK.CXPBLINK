@@ -1,0 +1,397 @@
+-                                                   RTDRW0XL - PDBLINK  -                                                
+0                                             THURSDAY  2024/10/31  18.11.49                                             
+-                       CORTEX (c) Copyright 2011 Allen Systems Group, Inc. All rights reserved.                         
+                               Licensed material - Property of Allen Systems Group, Inc.                                 
+1                                                                                                                        
+  WAIT     - CROSS REFERENCES ----------------------- 24/10/31 18.11.49  PAGE 1                                          
+                                                                                                                         
+  *ALLOF     IDZTV                                                                                                       
+  *ALLOO     IDZTV                                                                                                       
+  *ALLOR     IDZTV                                                                                                       
+  *BP9STOP   TOPKO                                                                                                       
+  *CCFDB     CCFDB                                                                                                       
+  *CFT001    DSNZM                                                                                                       
+  *CIPHOL    EGBA7                                                                                                       
+  *CMIAM     CMIL4                                                                                                       
+  *CMIJM     CMIGM                                                                                                       
+  *CMI10     CMI10                                                                                                       
+  *COLLE2    IDZSV                                                                                                       
+  *CTXAR     CTXAR                                                                                                       
+  *CUEXX     CUEXW                                                                                                       
+  *CZPG3     CZPGA                                                                                                       
+  *DBKQZ     DBKQZ                                                                                                       
+  *DKL89WB   DGE00                                                                                                       
+  *DRD11     DRD11                                                                                                       
+  *DRD13     DRD13                                                                                                       
+  *DRGOG     DRGOG                                                                                                       
+  *DRGOH     DRGOH                                                                                                       
+  *DRGOI     DRGOI                                                                                                       
+  *DRGOJ     DRGOJ                                                                                                       
+  *DRGOL     DRGOL                                                                                                       
+  *DRGOM     DRGOM                                                                                                       
+  *DSNB9     DSNB9                                                                                                       
+  *DSNRG     DSNRG                                                                                                       
+  *DSNW0     DSNW0                                                                                                       
+  *DS04A     DS04A                                                                                                       
+  *DS04B     DS04B                                                                                                       
+  *DS04C     DS04C                                                                                                       
+  *DS04D     DS04D                                                                                                       
+  *DS04E     DS04E                                                                                                       
+  *DS04F     DS04F                                                                                                       
+  *DS04G     DS04G                                                                                                       
+  *DS04H     DS04H                                                                                                       
+  *DS04I     DS04I                                                                                                       
+  *DS04J     DS04J                                                                                                       
+  *DS04K     DS04K                                                                                                       
+  *DS04L     DS04L                                                                                                       
+  *EGADG     EGADG                                                                                                       
+  *FEUES1    IDZOS                                                                                                       
+  *FEUES2    IDZOO                                                                                                       
+  *FEUES3    IDZOU                                                                                                       
+  *FEUES4    IDZSU                                                                                                       
+  *FICGP     CMIXS                                                                                                       
+  *HSMINTV   IKAB8                                                                                                       
+  *HSMPRIM   IKAA4                                                                                                       
+  *IGTMM     IGTMM                                                                                                       
+  *IXEBB     EADFK                                                                                                       
+  *IXEBC     EADFK                                                                                                       
+  *IXEBD     EADFK                                                                                                       
+  *IXFAM     CCFGC                                                                                                       
+  *IXFAN     CCFGD                                                                                                       
+  *IXFAO     CCFGE                                                                                                       
+  *IXFCA     DSNCH                                                                                                       
+  *IXFLA     CMIKE                                                                                                       
+  *IXFLB     CMIKE                                                                                                       
+1                                                                                                                        
+  WAIT     - CROSS REFERENCES ----------------------- 24/10/31 18.11.49  PAGE 2                                          
+                                                                                                                         
+  *IXFLC     CMIKE                                                                                                       
+  *IXFLD     CMIKE                                                                                                       
+  *IXFMD     DBFSF                                                                                                       
+  *IXFME     DBFSF                                                                                                       
+  *IXFMG     DBFSF                                                                                                       
+  *IXFMH     CMIAT                                                                                                       
+  *IXFMI     DBFSF                                                                                                       
+  *IXF85     CRJ04                                                                                                       
+  *IXF86     CRJ04                                                                                                       
+  *IXV1Q     CGDJA                                                                                                       
+  *IXV1R     CGDJA                                                                                                       
+  *IXV1S     CGDJA                                                                                                       
+  *IXV1T     CGDJA                                                                                                       
+  *JBP91     CMIWX                                                                                                       
+  *JMIJM     JMIGM                                                                                                       
+  *LCF05     CASEF                                                                                                       
+  *QMIJM     QMIGM                                                                                                       
+  *TMIJM     TMIGM                                                                                                       
+  *TOPESS    TESTW                                                                                                       
+  *TOPMOE    CSND6                                                                                                       
+  *XXXXX     CUEXF                                                                                                       
+  *XXXXXX    CMISD    JMISD    QMISD    TMISD                                                                            
+  *007Y163   IGTA4                                                                                                       
+  AA00S1     DBCSP                                                                                                       
+  AE33601    DTFU0                                                                                                       
+  AE83201    DCT59                                                                                                       
+  BPJ1301    CT22X                                                                                                       
+  BPS1201    DCT62                                                                                                       
+  BPUUUUU    DMIYG                                                                                                       
+  BPV1101    ITVP8                                                                                                       
+  BP03C02    CCFA9                                                                                                       
+  BP04201    DCE9B                                                                                                       
+  BP11901    DCTNM                                                                                                       
+  BP12301    DCTJN                                                                                                       
+  BP13501    DCTNN                                                                                                       
+  BP18510    DSNB8                                                                                                       
+  BP2A301    DCE13                                                                                                       
+  BP2B201    DMIF7                                                                                                       
+  BP2D501    DCELL                                                                                                       
+  BP21201    DCE14                                                                                                       
+  BP23201    DODDE                                                                                                       
+  BP30301    CCE63                                                                                                       
+  BP30302    TCE63                                                                                                       
+  BP30303    JCE63                                                                                                       
+  BP36501    DMISA                                                                                                       
+  BP37B01    DMIYH                                                                                                       
+  BP37901    DMIYD                                                                                                       
+  BP38401    JCE18                                                                                                       
+  BP51301    CMIZX                                                                                                       
+  BP52301    CTXO5                                                                                                       
+  BP53201    DCE4B                                                                                                       
+  BP55401    DCFKE                                                                                                       
+  BP67102    DMIAB                                                                                                       
+  BP67103    DMISC                                                                                                       
+  BP7K501    CCTNW                                                                                                       
+  BP70401    DCFKC                                                                                                       
+  BP74201    DCTON                                                                                                       
+1                                                                                                                        
+  WAIT     - CROSS REFERENCES ----------------------- 24/10/31 18.11.49  PAGE 3                                          
+                                                                                                                         
+  BP80501    DDCAX                                                                                                       
+  BP80601    DDABX                                                                                                       
+  BP9FTOP    TOPTI                                                                                                       
+  DAE1B701   DCEH5                                                                                                       
+  ENDVTBB    DRTBZ                                                                                                       
+  FEAC301    DRD42                                                                                                       
+  FERC301    DRD42                                                                                                       
+  PREP       CARAM    CARBM    CCAAA    CCAAM    CDXBY    CSRAY    DCGAM                                                 
+             DCTAM    DRTB2    DRTB3    DRTB4    DRTB5    DRTB6    DRTVH                                                 
+             DRTVI    DRTVX    DTXL2    EADA2    EADA5    EADA7    EADB2                                                 
+             EADB8    EADC8    EADD8    EADE1    EADF1    EADF4    EADF6                                                 
+             EADG1    EADG4    EADH4    EADH5    EADV4    EADV8    EAD31                                                 
+             ECOH5    EHAEA    EHAE1    IDZV1    IGTPX    IGT0B    IGT0C                                                 
+             IGT25    IJAAY    IJABY    IJAEM    ISMF1    JSRAY    KRTG3                                                 
+             QMIGM    QSRAY    TSRAY    XAPMS                                                                            
+  TOPEADF4   EADF4                                                                                                       
+  TOPEGAEF   EGA12                                                                                                       
+  TOPEGAEJ   EGA11                                                                                                       
+  TOPEGAEK   EGA14                                                                                                       
+  TOPEGAEN   EGA15                                                                                                       
+  TOPEGAEQ   EGA16                                                                                                       
+  TOPKTXJH   KTXJN                                                                                                       
+  1304401    KTXJJ                                                                                                       
+  1304402    KTXJK                                                                                                       
+  4801801    DNTAA                                                                                                       
+1                                                                                                                        
+  WEAKPRED - CROSS REFERENCES ----------------------- 24/10/31 18.11.49  PAGE 1                                          
+                                                                                                                         
+  AAUMO      PAAULFA                                                                                                     
+  ADZMO      PIDZDFA                                                                                                     
+  AMIMO      PAMILFA                                                                                                     
+  A3GAW      PT0600A                                                                                                     
+  CANMO      PCANDFA  PCANDIA  PCANLFA                                                                                   
+  CARAD      PT0530A                                                                                                     
+  CARSD      PT1900A                                                                                                     
+  CASCD      PCASBDA                                                                                                     
+  CASDD      PCASCDA                                                                                                     
+  CASMO      PCASDFA  PCASDIA  PCASLFA                                                                                   
+  CAUMO      PCAUDFA  PCAUDIA  PCAULFA                                                                                   
+  CBCMO      PIGTDFA                                                                                                     
+  CCAAA      PT2030A                                                                                                     
+  CCAAB      PT0500A                                                                                                     
+  CCAAC      PT0500A                                                                                                     
+  CCEAB      PCCEAAB                                                                                                     
+  CCEAD      PCCE13A  PCCE46A                                                                                            
+  CCEA1      PCCE13A  PCCE46A                                                                                            
+  CCEH1      PCCER1A                                                                                                     
+  CCEH3      PCCEH2B  PDCE99B                                                                                            
+  CCEH6      PDCEH5A                                                                                                     
+  CCEJJ      PCCE31A                                                                                                     
+  CCELM      PDCE02A                                                                                                     
+  CCEM1      PCFE01A                                                                                                     
+  CCEM2      PCCEM1A                                                                                                     
+  CCEM3      PCCEM2A  PDFE05A                                                                                            
+  CCEQ1      PCCELMA  PCCE31A                                                                                            
+  CCERO      PCCE13A  PCCE46A                                                                                            
+  CCEXA      PCCE39C                                                                                                     
+  CCEXX      PCCE01A  PCMIADA  PCMIMCA  PCMINDA                                                                          
+  CCE00      PT0030A                                                                                                     
+  CCE01      PCMINFA  PCTXLBA  PCTXL1A                                                                                   
+  CCE02      PCUBABA  PCUBAUE                                                                                            
+  CCE03      PDCE09A                                                                                                     
+  CCE07      PCCEXXA  PCCE14A  PCCE62A                                                                                   
+  CCE08      PCCE07A                                                                                                     
+  CCE11      PDCE07A                                                                                                     
+  CCE12      PCCE03A  PCUBANA                                                                                            
+  CCE13      PCCE45D                                                                                                     
+  CCE15      PCCE08A                                                                                                     
+  CCE16      PCCE15A                                                                                                     
+  CCE19      PCCE24A                                                                                                     
+  CCE24      PCCEGGA  PCCE32A                                                                                            
+  CCE31      PCCEAAB  PCCEABB  PCCEGGA                                                                                   
+  CCE32      PCCEAAA  PCCEAAB                                                                                            
+  CCE39      PCCE40A                                                                                                     
+  CCE40      PCCEAAB  PCCEGGA  PCCEM3D  PCCE31A  PCCE61A                                                                 
+  CCE45      PCCECCA  PCCECCB                                                                                            
+  CCE48      PT0300A                                                                                                     
+  CCE60      PCCE31A                                                                                                     
+  CCE61      PDCE60A                                                                                                     
+  CCE9A      PCCE99A                                                                                                     
+  CCE96      PCCE12A  PCCE15A                                                                                            
+  CCFA8      PT1500A                                                                                                     
+  CCFBD      PT2330A                                                                                                     
+  CCFBW      PT1100A                                                                                                     
+  CCFCW      PT1130A                                                                                                     
+1                                                                                                                        
+  WEAKSUCC - CROSS REFERENCES ----------------------- 24/10/31 18.11.49  PAGE 8                                          
+                                                                                                                         
+  CISLQ      PCRJ03A                                                                                                     
+  CI001      PIGTROA                                                                                                     
+  CI002      PIGTROA                                                                                                     
+  CI003      PIGTROA                                                                                                     
+  CI004      PIGTROA                                                                                                     
+  CI005      PIGTROA                                                                                                     
+  CI006      PIGTROA                                                                                                     
+  CI007      PIGTROA                                                                                                     
+  CI008      PIGTROA                                                                                                     
+  CI009      PIGTROA                                                                                                     
+  CI010      PIGTROA                                                                                                     
+  CI011      PIGTROA                                                                                                     
+  CI012      PIGTROA                                                                                                     
+  CI013      PIGTROA                                                                                                     
+  CI014      PIGTROA                                                                                                     
+  CI015      PIGTROA                                                                                                     
+  CI016      PIGTROA                                                                                                     
+  CI017      PIGTROA                                                                                                     
+  CI018      PIGTROA                                                                                                     
+  CI019      PIGTROA                                                                                                     
+  CI020      PIGTROA                                                                                                     
+  CI021      PIGTROA                                                                                                     
+  CI022      PIGTROA                                                                                                     
+  CI023      PIGTROA                                                                                                     
+  CI024      PIGTROA                                                                                                     
+  CI025      PIGTROA                                                                                                     
+  CI026      PIGTROA                                                                                                     
+  CI027      PIGTROA                                                                                                     
+  CI028      PIGTROA                                                                                                     
+  CI029      PIGTROA                                                                                                     
+  CI030      PIGTROA                                                                                                     
+  CI031      PIGTROA                                                                                                     
+  CI032      PIGTROA                                                                                                     
+  CI033      PIGTROA                                                                                                     
+  CI034      PIGTROA                                                                                                     
+  CI035      PIGTROA                                                                                                     
+  CI036      PIGTROA                                                                                                     
+  CI037      PIGTROA                                                                                                     
+  CI038      PIGTROA                                                                                                     
+  CI039      PIGTROA                                                                                                     
+  CI040      PIGTROA                                                                                                     
+  CI041      PIGTROA                                                                                                     
+  CI042      PIGTROA                                                                                                     
+  CI043      PIGTROA                                                                                                     
+  CI044      PIGTROA                                                                                                     
+  CI045      PIGTROA                                                                                                     
+  CI046      PIGTROA                                                                                                     
+  CI047      PIGTROA                                                                                                     
+  CI048      PIGTROA                                                                                                     
+  CI049      PIGTROA                                                                                                     
+  CI050      PIGTROA                                                                                                     
+  CI051      PIGTROA                                                                                                     
+  CI052      PIGTROA                                                                                                     
+  CI053      PIGTROA                                                                                                     
+  CI054      PIGTROA                                                                                                     
+  CI055      PIGTROA                                                                                                     
+  CI056      PIGTROA                                                                                                     
+1                                                                                                                        
+  WEAKSUCC - CROSS REFERENCES ----------------------- 24/10/31 18.11.49  PAGE 1                                          
+                                                                                                                         
+  CI057      PIGTROA                                                                                                     
+  CI058      PIGTROA                                                                                                     
+  CI059      PIGTROA                                                                                                     
+  CI060      PIGTROA                                                                                                     
+  CI061      PIGTROA                                                                                                     
+  CI062      PIGTROA                                                                                                     
+  CI063      PIGTROA                                                                                                     
+  CI064      PIGTROA                                                                                                     
+  CI065      PIGTROA                                                                                                     
+  CJMDF      PCJMMOA                                                                                                     
+  CJMDI      PCJMMOA                                                                                                     
+  CJMLF      PCJMMOA                                                                                                     
+  CJMMO      PCF122A  PCF123A  PCF124A  PCF125A  PCF126A  PCF127A  PCF128A                                               
+             PCF129A  PCF130A  PCF131A  PCF132A  PCF133A  PCF134A  PCF135A                                               
+             PCF136A  PCF137A  PCF138A  PCF139A  PCF140A  PCF141A  PCF142A                                               
+             PCF143A  PCF144A  PCF145A  PCF163A  PCF164A  PCF165A  PCF166A                                               
+             PCR808A  PCR809A  PCR811A  PCR812A  PCR813A  PCR815A  PCR816A                                               
+             PCR817A  PCR820A  PCR821A  PCR822A  PCR823A  PCR824A  PCR825A                                               
+             PCR878A  PCR879A  PCR880A  PCR881A  PCR882A  PCR883A  PCR884A                                               
+             PCR930A  PCR931A  PCR932A  PCR948A  PCS170A  PCS171A  PCS172A                                               
+             PCS181A                                                                                                     
+  CJMRU      PIDZTWA                                                                                                     
+  CLCAD      PCLCDDA                                                                                                     
+  CLCDD      PCLCEDA  PCUBAFA                                                                                            
+  CMBDF      PCMBMOA                                                                                                     
+  CMBDI      PCMBMOA                                                                                                     
+  CMBLF      PCMBMOA                                                                                                     
+  CMBMO      PCF003A  PCF004A  PCF005A  PCF006A  PCR242A  PCR243A  PCR244A                                               
+             PCR245A  PCR246A  PCR247A  PCR248A  PCR249A  PCR745A  PCR746A                                               
+             PCR781A  PCR782A  PCR783A  PCR784A  PCR807A  PCR810A  PCR818A                                               
+             PCR819A                                                                                                     
+  CMBRU      PIDZTWA                                                                                                     
+  CMEDF      PCMEMOA                                                                                                     
+  CMEDI      PCMEMOA                                                                                                     
+  CMELF      PCMEMOA                                                                                                     
+  CMEMO      PCF025A  PCR250A  PCR251A                                                                                   
+  CMERU      PIDZTWA                                                                                                     
+  CMGDF      PCMGMOA                                                                                                     
+  CMGDI      PCMGMOA                                                                                                     
+  CMGLF      PCMGMOA                                                                                                     
+  CMGMO      PCR252A  PCR253A  PCR254A  PCR255A  PCR256A  PCR257A  PCR258A                                               
+             PCR259A  PCR260A  PCR261A                                                                                   
+  CMGRU      PIDZTWA                                                                                                     
+  CMIAD      PCCEXXA  PCCTNMA  PCMIAMA  PDSNCHA                                                                          
+  CMIAJ      PCMIAKA                                                                                                     
+  CMIAL      PCMIFSA                                                                                                     
+  CMIAM      PCMIAXA  PCMIGXA  PCMISAA  PCMIZ8A  PCNLAAA  PCZSQUA  PDMIXAA                                               
+             PIGTE1A                                                                                                     
+  CMIAV      PCMIAMA  PCMINDA  PCMIROA  PCMIRPA  PTMINDA                                                                 
+  CMIAW      PCMIAMA  PCMIROA  PCMIRPA                                                                                   
+  CMIAX      PCMIIXA                                                                                                     
+  CMIB5      PDR058A  PDR112A  PDR114A                                                                                   
+  CMICF      PCINXXA  PCMIFOA  PCMIIXA  PCMRFOA  PCSNYYA                                                                 
+  CMICG      PCR000A                                                                                                     
+  CMICH      PCINXXA                                                                                                     
+  CMICK      PCMIRQA                                                                                                     
+  CMICN      PCCFKBA  PCCFKSA  PCCFKTA                                                                                   
+1                                                                                                                        
+  WEAKSUCC - CROSS REFERENCES ----------------------- 24/10/31 18.11.49  PAGE 2                                         
+                                                                                                                         
+  CMICS      PCMRFOA                                                                                                     
+  CMIDF      PCMIMOA                                                                                                     
+  CMIDI      PCMIMOA                                                                                                     
+  CMIEJ      PCMIEHA                                                                                                     
+  CMIEM      PCMIMCA                                                                                                     
+  CMIFD      PCMIBKA  PCMICWA  PCMIMCA                                                                                   
+  CMIFO      PCMI48A                                                                                                     
+  CMIHD      PECOH9A                                                                                                     
+  CMIHQ      PCMIJAA                                                                                                     
+  CMIII      PCMIM2A                                                                                                     
+  CMIIX      PDMIIXA  PDMIIXB  PDMIIXC                                                                                   
+  CMIJA      PDMIJAA                                                                                                     
+  CMIKA      PCMICFA                                                                                                     
+  CMIKI      PCMIKNA                                                                                                     
+  CMILA      PCMIAMA  PCMIROA                                                                                            
+  CMILF      PCMIMOA                                                                                                     
+  CMIL2      PCMIBFA                                                                                                     
+  CMIMC      PCCEXXA  PCINXXA  PCMIADA  PCMIAQA  PCMICIA  PCMICWA  PCMIFQA                                               
+             PCMIIJA  PCMIROA  PCMIRPA  PCMIUNA  PCMIW0A  PCMIX5A  PCMI22A                                               
+             PCNLAAA  PCRJA2A  PCSNYYA  PDBCA1A  PDSNCHA                                                                 
+  CMIMO      PCF001A  PCF002A  PCF079A  PCF080A  PCF083A  PCF084A  PCF101A                                               
+             PCF112A  PCF113A  PCF114A  PCF115A  PCF116A  PCF117A  PCF120A                                               
+             PCF121A  PCF146A  PCF147A  PCF148A  PCF149A  PCF150A  PCF154A                                               
+             PCF155A  PCF156A  PCF157A  PCF158A  PCF159A  PCF160A  PCF161A                                               
+             PCF162A  PCF168A  PCF169A  PCR262A  PCR263A  PCR264A  PCR265A                                               
+             PCR266A  PCR267A  PCR268A  PCR269A  PCR270A  PCR271A  PCR272A                                               
+             PCR273A  PCR274A  PCR275A  PCR276A  PCR277A  PCR278A  PCR279A                                               
+             PCR280A  PCR281A  PCR282A  PCR283A  PCR284A  PCR285A  PCR286A                                               
+             PCR287A  PCR288A  PCR289A  PCR290A  PCR291A  PCR292A  PCR293A                                               
+             PCR294A  PCR295A  PCR296A  PCR297A  PCR298A  PCR299A  PCR300A                                               
+             PCR301A  PCR302A  PCR303A  PCR304A  PCR305A  PCR306A  PCR307A                                               
+             PCR308A  PCR309A  PCR592A  PCR600A  PCR608A  PCR613A  PCR664A                                               
+             PCR665A  PCR669A  PCR670A  PCR695A  PCR696A  PCR697A  PCR740A                                               
+             PCR747A  PCR763A  PCR764A  PCR769A  PCR771A  PCR787A  PCR788A                                               
+             PCR891A  PCR892A  PCR895A  PCR896A  PCR897A  PCR898A  PCR901A                                               
+             PCR904A  PCR917A  PCR918A  PCR919A  PCR920A  PCR921A  PCR922A                                               
+             PCR923A  PCR924A  PCR925A  PCR926A  PCR927A  PCR928A  PCR929A                                               
+             PCR933A  PCR934A  PCR937A  PCR938A  PCR939A  PCR940A  PCR941A                                               
+             PCR942A  PCR943A  PCS052A  PCS107A  PCS108A  PCS109A  PCS110A                                               
+             PCS144A  PCS149A  PCS163A  PCS164A  PCS165A  PCS166A  PCS167A                                               
+             PCS175A  PCS176A  PCS177A  PCS178A  PCS179A  PCS180A  PCS210A                                               
+             PCS211A  PCS280A  PCS281A  PCS282A  PCS286A  PCS287A  PCS288A                                               
+  CMINC      PCMINFA                                                                                                     
+  CMIND      PCCEXXA  PCMIAMA  PCTXLBA                                                                                   
+  CMINF      PCCE01A                                                                                                     
+  CMING      PDCE07A                                                                                                     
+  CMIOJ      PCMIOKA                                                                                                     
+  CMIPD      PCMICWA                                                                                                     
+  CMIRU      PIDZTWA                                                                                                     
+  CMIR3      PCMIROA                                                                                                     
+  CMITZ      PCMIJAA                                                                                                     
+  CMIUM      PCMIFTA                                                                                                     
+  CMIUN      PCMIFTA                                                                                                     
+  CMIX5      PCMIROA  PCMIRPA                                                                                            
+  CMRFO      PCMI48A                                                                                                     
+  CNHDF      PCNHMOA                                                                                                     
+  CNHDI      PCNHMOA                                                                                                     
+1                                                                                                                        
+  RESOURCE - CROSS REFERENCES ----------------------- 24/10/31 18.11.49  PAGE 1                                         
+                                                                                                                         
+  YGA1IRTN   PDRTF1A  PDRTG1A  PDRTH1A  PDRT1BA  PDRT11A  PDRT61A  PDRT81A                                               
+             PDRT91A                                                                                                     

@@ -1,0 +1,47 @@
+-                                                   RTDRW0XL - RULE     -                                                
+0                                             THURSDAY  2024/10/31  18.24.42                                             
+-                       CORTEX (c) Copyright 2011 Allen Systems Group, Inc. All rights reserved.                         
+                               Licensed material - Property of Allen Systems Group, Inc.                                 
+1 -----------------------------------------------------------------------------------------------------------------------
+   Jobset    Rule                                                                                                        
+  $ARCHPUI ADVANCED Active                                                                                               
+                    DIMANCHE;                                                                                            
+                    LUNDI;                                                                                               
+                    MERCREDI;                                                                                            
+                    JEUDI;                                                                                               
+  -----------------------------------------------------------------------------------------------------------------------
+   Jobset    Rule                                                                                                        
+  $BACARCH ARCHIVES Active            Validité Début : 2007/01/01                                                        
+                    Fréquence : tous les 1 An à partir du 2014/01/01                                                     
+                                Le 1er Samedi Avant la fin du mois                                                       
+                                Pour Février                                                                             
+                                Si fermé : Exécuter de toute fa\on                                                       
+                    Dernière mise à jour 2014/05/28 0.00 par STCOMS                                                      
+  -----------------------------------------------------------------------------------------------------------------------
+   Jobset    Rule                                                                                                        
+  CTXAP    CMIME001 Active            Validité Début : 2007/05/09                                                        
+                    Fréquence : tous les 1 Mois à partir du 2014/01/01                                                   
+                                Le 1er Jeudi                                                                             
+                                Si fermé : Le jour ouvert suivant                                                        
+                    Dernière mise à jour 2014/05/28 0.00 par STCOMS                                                      
+  -----------------------------------------------------------------------------------------------------------------------
+   Jobset    Rule                                                                                                        
+  CTXA9    ADVANCED Active                                                                                               
+                    COMME CMIBT;                                                                                         
+  -----------------------------------------------------------------------------------------------------------------------
+   Jobset    Rule                                                                                                        
+  CTXBA    ADVANCED Active                                                                                               
+                    lundi et ouvert;                                                                                     
+                    mercredi et ouvert;                                                                                  
+  -----------------------------------------------------------------------------------------------------------------------
+   Jobset    Rule                                                                                                        
+  CTXE8    ADVANCED Active                                                                                               
+                    COMME CASFM;                                                                                         
+  -----------------------------------------------------------------------------------------------------------------------
+   Jobset    Rule                                                                                                        
+  CTXG1    ADVANCED Active                                                                                               
+                    COMME CCAAM;                                                                                         
+                                                  
+  -----------------------------------------------------------------------------------------------------------------------
+                                                                                                                         
+  18.24.42 - CZXSY0438I - FIN DU TRAITEMENT. 1264 REGLES IMPRIMEES                                                       
