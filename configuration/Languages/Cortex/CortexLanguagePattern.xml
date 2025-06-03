@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languagePattern id="Cortex" />
+	
+	<!-- types>
+		<RunDeckJob>
+			<header>
+				<pattern><![CDATA[<job>]]></pattern>
+			</header>
+			<identification.name>
+				<pattern><![CDATA[<name>]]></pattern>
+				<value><![CDATA[[a-zA-Z0-9éèêëàê\-\_ \s\t]+]]></value>
+			</identification.name>
+			<body>
+				<begin><![CDATA[<sequence]]></begin>
+				<end><![CDATA[</sequence>]]></end>
+				<nested>false</nested>
+			</body>
+		</RunDeckJob>
+	</types>
+</languagePattern --> 
+
+

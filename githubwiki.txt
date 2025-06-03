@@ -1,0 +1,61 @@
+Welcome to the com.castsofware.uc.cortex wiki!
+>Warning: The Extension described in this document is delivered as-is. This Extension is made available by CAST User Community and governed by Open Source License. Please consider all necessary steps to validate and to test the Extension in your environment before using it in production.        
+
+The extension is published under GNU LGPL v3 open source license
+
+# Table of content
+- [Introduction](#introduction)
+- [In what situation should you install this extension?](#situation)
+- [CAST AIP versions compatibility](#aipcompatibility)
+- [Supported DBMS servers](#supporteddbms)
+- [Configuration instructions](#configuration)
+- [Operation instructions](#Operation)
+   - [Source preparation and analysis configuration instructions](#preparation)
+   - [Analysis processing](#analysis)
+   - [Checks to be performed upon analysis](#checks)
+- [What results can you expect?](#expect)
+- [Known issues](#KnownIssues)
+- [Limitations and potential enhancements](#limitations)
+- [Release Notes](#rn)
+
+<a name="introduction"></a>
+# Introduction 
+Cortex scheduler coverage
+
+<a name="situation"></a>
+# In what situation should you install this extension?
+When you have Cortex scheduler technology in the application    
+<a name="aipcompatibility"></a>
+# CAST AIP versions compatibility
+
+This extension is compatible with all AIP versions 8.3.x  
+<a name="supporteddbms"></a>
+# Supported DBMS servers
+N/A
+
+<a name="configuration"></a>
+# Configuration instructions
+N/A      
+<a name="operation"></a>
+# Operation instructions
+Create in Console a UA job for Cortex technology        
+
+<a name="expect"></a>
+# What results can you expect?
+Links between Cortex Jobs/Planset and JCL Jobs or JCL Procedures 
+<a name="links"></a>
+## Links
+Links between Cortex Jobs/Planset and JCL Jobs or JCL Procedures 
+<a name="rules"></a>
+## List of quality rules
+N/A
+
+<a name="knownIssues"></a>
+# Known issues
+None
+
+<a name="limitations"></a>
+<a name="rn"></a>
+# Release Notes
+## Version 0.9.4
+* Initial version published
